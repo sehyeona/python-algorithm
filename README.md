@@ -11,9 +11,11 @@ $ cd ~/downloads
 $ wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
 
 # 다운로드 받은 파일의 확장자를 보면 .sh입니다.
-# .sh 는 실행가는 한 쉘 스크립트 파일입니다
+# .sh 는 실행가능 한 쉘 스크립트 파일입니다
 # python helloworld.py 로 helloworld python 파일을 실행하는 것과 비슷합니다
 $ bash Anaconda3-2020.07-Linux-x86_64.sh
 
 # License 관련된 것을 묻는 화면에서 엔터와 yes로 혼내줍니다.
+
+# 설치 마지막 부분에 install 로 conda 를 초기화 시키냐고 물어보는데 yes/no 아무거나 하셔도 상관없습니다
 ```
