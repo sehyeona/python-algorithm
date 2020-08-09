@@ -1,7 +1,7 @@
 # python-algorithm
 Algorithm &amp; Data structure for python
 
-'''
+```
 # change directory to install
 $ cd ~/downloads
 
@@ -16,4 +16,4 @@ $ wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
 $ bash Anaconda3-2020.07-Linux-x86_64.sh
 
 # License 관련된 것을 묻는 화면에서 엔터와 yes로 혼내줍니다.
-'''
+```
